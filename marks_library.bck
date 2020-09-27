@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 61300621121
+D CONN HEADER VERT 3POS 2.54MM
+K 732-5295-ND
+F https://www.digikey.com/product-detail/en/w%C3%BCrth-elektronik/61300621121/732-5295-ND/4846835
+$ENDCMP
+#
 $CMP Arduino_UNO_R3_SHIELD
 D Arduino UNO Microcontroller Module, release 3
 K Arduino UNO R3 Microcontroller Module Atmel AVR USB
